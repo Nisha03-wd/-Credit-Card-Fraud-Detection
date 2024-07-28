@@ -12,6 +12,7 @@ Step 1: Clone the repository
 https://github.com/Nisha03-wd/Credit-Card-Fraud-Detection..git
 
 Step 2: Open the first terminal
+
 npm install
 
 npm run dev
